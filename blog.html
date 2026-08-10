@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog | Velaga Venkata Karthik</title>
+  <meta name="description" content="Articles and notes from Velaga Venkata Karthik on web development and AI." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨‍💻</text></svg>" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <header class="navbar">
+    <div class="container">
+      <a href="index.html" class="logo">vvk<span>.</span>dev</a>
+
+      <nav class="nav-links" aria-label="Primary">
+        <a href="index.html#home">Home</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#skills">Skills</a>
+        <a href="index.html#education">Education</a>
+        <a href="index.html#experience">Experience</a>
+        <a href="index.html#projects">Projects</a>
+        <a href="index.html#certifications">Certifications</a>
+        <a href="blog.html" class="active">Blog</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="theme-toggle" aria-label="Toggle dark and light theme" type="button"></button>
+        <button class="hamburger" aria-label="Toggle menu" aria-expanded="false" type="button">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section" style="padding-top: 150px;">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow">blog</span>
+          <h1 class="section-title">Writing &amp; notes</h1>
+          <p class="section-sub">Posts on what I'm building and learning — coming soon.</p>
+        </div>
+
+        <div class="blog-grid reveal">
+          <div class="card empty-state" style="grid-column: 1 / -1;">
+            <span class="icon-badge" style="display:inline-flex;">✍️</span>
+            <strong>No posts published yet</strong>
+            This is where blog articles will appear once written — each with a category, date, short description, and a Read More link. Check back soon.
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      &copy; <span id="year">2026</span> Velaga Venkata Karthik. Built with HTML, CSS &amp; JavaScript.
+    </div>
+  </footer>
+
+  <button class="scroll-top" aria-label="Scroll to top" type="button">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m5 12 7-7 7 7M12 19V5"/></svg>
+  </button>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script src="script.js"></script>
+</body>
+</html>

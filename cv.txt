@@ -1,0 +1,87 @@
+VELAGA VENKATA KARTHIK
+Data Science | Python | Machine Learning | Analytics
+
+Email: velagavenkatakarthik@gmail.com
+LinkedIn: linkedin.com/in/velaga-venkata-karthik-29bb13328
+GitHub: github.com/Karthikvenkat1
+LeetCode: leetcode.com/u/48BUKWaHaS/
+
+PROFESSIONAL SUMMARY
+
+B.Tech Computer Science (AI) student at Parul University with hands-on experience in Python, Machine Learning, Data Analytics, Generative AI, and full-stack development. Skilled in EDA, NLP, data visualization, ML pipelines, REST APIs, and database-driven applications. Passionate about solving real-world problems through AI and data-driven solutions and seeking a Data Science or Machine Learning internship.
+
+EDUCATION
+
+Parul University, Vadodara, Gujarat
+B.Tech Computer Science Engineering (Artificial Intelligence)
+2023 – 2027
+CGPA: 7.06 / 10
+
+TECHNICAL SKILLS
+
+Programming: Python, Java, SQL
+Data Science: Pandas, NumPy, Scikit-learn, Matplotlib
+Machine Learning: Regression, Classification, Clustering, PCA
+Deep Learning & NLP: TensorFlow, Keras, LSTM, NLTK, BERT
+Web & Backend: HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, REST APIs
+Databases: MySQL, MongoDB
+Tools: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Gemini AI
+
+PROJECTS
+
+1. Movie Review Sentiment Classifier
+Tech Stack: Python, TensorFlow, Keras, LSTM, NLTK
+• Developed an LSTM-based sentiment analysis model using the IMDB Movie Reviews dataset.
+• Performed text preprocessing, tokenization, sequence padding, and word embedding.
+• Built a binary classification pipeline to identify positive and negative movie reviews.
+• Trained and evaluated the model using TensorFlow/Keras and optimized hyperparameters for improved performance.
+
+2. AI-Based Event Management Platform
+Tech Stack: React.js, Next.js, Node.js, Express.js, MongoDB, Gemini AI
+• Built a full-stack platform for event discovery, registration, and QR-based ticket booking.
+• Integrated Gemini AI for smart event creation and personalized recommendations.
+• Developed QR ticket verification to reduce fake entries and streamline event check-in.
+• Created REST APIs and an organizer dashboard for managing events and bookings.
+
+3. Text Summarization using BERT
+Tech Stack: Python, BERT, Hugging Face, PyTorch, NLP
+• Developed an NLP-based text summarization solution using transformer-based BERT models.
+• Applied text preprocessing and transformer techniques to generate concise summaries from longer text.
+• Worked with Hugging Face and PyTorch for model development and experimentation.
+
+4. Price Drop Email Alert
+Tech Stack: Python, Flask, SQLAlchemy, BeautifulSoup, APScheduler, Gmail SMTP
+• Built a web application that monitors product prices and sends automated email alerts when prices drop.
+• Used web scraping and scheduled jobs to track product price changes.
+• Implemented database storage and Gmail SMTP integration for automated notifications.
+
+5. Expense Tracker
+Tech Stack: HTML, CSS, JavaScript
+• Developed a responsive expense tracking application for recording and organizing personal expenses.
+• Created an intuitive interface for managing expense entries and monitoring spending.
+
+6. Personal Portfolio Website
+Tech Stack: HTML, CSS, JavaScript
+• Designed and developed a responsive portfolio website to showcase projects, skills, education, and certifications.
+• Implemented responsive layouts, theme controls, navigation, and interactive UI elements.
+
+CERTIFICATIONS & COURSES
+
+• Tata GenAI Powered Data Analytics Job Simulation — Forage
+  Completed July 6, 2026; practical work included exploratory data analysis, risk profiling, AI-based delinquency prediction, data storytelling, and an AI-driven collections strategy.
+
+• Solutions Architecture Job Simulation — Forage
+  Completed January 3, 2026; completed practical work on designing a simple, scalable hosting architecture.
+
+• Basics of Python
+  Completed July 12, 2025.
+
+• AZ-900 Microsoft Azure Fundamentals — Udemy
+
+• Apna College Prime 2.0 — Machine Learning & Data Science
+  In Progress.
+
+ACHIEVEMENTS
+
+• Solved 140+ Data Structures and Algorithms problems on LeetCode, strengthening algorithmic problem-solving skills.
+• Improved CGPA from 6.13 to 7.06 through consistent academic performance.
