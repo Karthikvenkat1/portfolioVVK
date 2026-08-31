@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const subject = form.elements.subject.value.trim();
       const message = form.elements.message.value.trim();
 
-      const destination = 'YOUR-EMAIL@example.com'; // TODO: replace with your real email
+      const destination = 'velagavenkatakarthik1@gmail.com';
       const mailBody = `Name: ${name}\nEmail: ${email}\n\n${message}`;
       const mailtoLink = `mailto:${destination}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(mailBody)}`;
 
